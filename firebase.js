@@ -1,0 +1,1 @@
+// Mets ici ta config Firebase réelle
